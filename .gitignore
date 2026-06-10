@@ -1,0 +1,11 @@
+ml_clean/
+__pycache__/
+*.pyc
+app/app.py
+models/*.pkl
+note
+.env
+.venv
+data/*.csv
+.idea/
+.vscode/
