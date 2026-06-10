@@ -45,7 +45,7 @@ Follow these steps to set up and run the pipeline and application on your local 
 
 ### 1. Prerequisites & Environment Setup
 Clone the repository and navigate to the project directory. Create a virtual environment and install the required dependencies:
-
+Streamlit URL: https://disaster-event-severity-i94g2eljzd7hdqgsgapppxx.streamlit.app/
 ```bash
 # Create a virtual environment
 python -m venv venv
